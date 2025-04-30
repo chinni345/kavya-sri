@@ -1,0 +1,1 @@
+screenshots/starred_repo_proof.png
